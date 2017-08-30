@@ -18,3 +18,5 @@
   * Using Web APIs
 * [The Specials, "Blank Expression"](https://www.youtube.com/watch?v=vsD59uKVTxc)
   * Regular Expressions
+* [UNIVAC Computer Commercial](https://archive.org/details/UNIVAC-AD-2)
+  * Regular Expressions
